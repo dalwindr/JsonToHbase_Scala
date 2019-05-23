@@ -91,7 +91,7 @@ object json_tohbase_tosql {
 		    println("test program ..........................")
 
 		   
-		   var jsonFile = "/Users/keeratjohar2305/Downloads/youTube_sampleJson"
+		   //var jsonFile = "/Users/keeratjohar2305/Downloads/youTube_sampleJson"
 		   var jsonFile = "/Users/keeratjohar2305/Downloads/Json_project/Data_location/youTube_sampleJson.json"
 		   var parsed_JsonData = parseJsonFile(jsonFile)
 		  

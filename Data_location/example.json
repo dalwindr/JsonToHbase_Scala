@@ -1,0 +1,36 @@
+{ 
+  "kind":##RANDOM_KINDS##"youtube#searchListResponse",
+  "etag":##RANDOM_ETAGS##"\"m2yskBQFythfE4irbTIeOgYYfBU/PaiEDiVxOyCWelLPuuwa9LKz3Gk\"",
+  "nextPageToken":##RANDOM_NEXTPAGETOKEN##"CAUQAA",
+  "regionCode":##RANDOM_REGIONCODE##"KE",
+  "pageInfo":{
+                "totalResults":##RANDOM_TOTALRESULT##"4249",
+                "resultsPerPage":##RANDOM_RESULTPERPAGE##"5"
+             },
+  "items":[
+              {
+                "kind":##RANDOM_ITEMKIND##"youtube#searchResult_1",
+                "etag":##RANDOM_ITEMETAG##"\"m2yskBQFythfE4irbTIeOgYYfBU/QpOIr3QKlV5EUlzfFcVvDiJT0hw\"",
+                "id":{
+                  "kind":##RANDOM_ITEMKIND_OFFKIND##"youtube#channel_1",
+                  "channelId":##RANDOM_ITEMCHANNELID##"UCJowOS1R0FnhipXVqEnYU1A"
+                }
+              },
+              {
+                "kind":##RANDOM_ITEMKIND1##"youtube#searchResult_2",
+                "etag":##RANDOM_ITEMETAG1##"\"m2yskBQFythfE4irbTIeOgYYfBU/AWutzVOt_5p1iLVifyBdfoSTf9E\"",
+                "id":{
+                  "kind":##RANDOM_ITEMKIND_OFFKIND1##"youtube#video_1",
+                  "channelId":##RANDOM_ITEMCHANNELID1##"Eqa2nAAhHN0"
+                }
+              },
+              {
+                "kind":##RANDOM_ITEMKIND2##"youtube#searchResult_3",
+                "etag":##RANDOM_ITEMETAG2##"\"m2yskBQFythfE4irbTIeOgYYfBU/2dIR9BTfr7QphpBuY3hPU-h5u-4\"",
+                "id":{
+                  "kind":##RANDOM_ITEMKIND_OFFKIND2##"youtube#video_3",
+                  "videoId":##RANDOM_ITEMCHANNELID2##"IirngItQuVs"
+                  }
+              }
+           ]
+}
